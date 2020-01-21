@@ -1,0 +1,9 @@
+$phone: "(max-width: 575.98px)";
+
+@media #{$phone} {
+    
+    #nyc-weather {
+        background-position: left;
+        background-size: cover;
+    }
+}
