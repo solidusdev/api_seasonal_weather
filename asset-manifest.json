@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/api_seasonal_weather/static/css/main.125ef254.chunk.css",
+    "main.js": "/api_seasonal_weather/static/js/main.5a6e7343.chunk.js",
+    "main.js.map": "/api_seasonal_weather/static/js/main.5a6e7343.chunk.js.map",
+    "runtime-main.js": "/api_seasonal_weather/static/js/runtime-main.547d2bca.js",
+    "runtime-main.js.map": "/api_seasonal_weather/static/js/runtime-main.547d2bca.js.map",
+    "static/js/2.ffaf7804.chunk.js": "/api_seasonal_weather/static/js/2.ffaf7804.chunk.js",
+    "static/js/2.ffaf7804.chunk.js.map": "/api_seasonal_weather/static/js/2.ffaf7804.chunk.js.map",
+    "index.html": "/api_seasonal_weather/index.html",
+    "precache-manifest.3c4febf04ff18de2ad027710d3b51666.js": "/api_seasonal_weather/precache-manifest.3c4febf04ff18de2ad027710d3b51666.js",
+    "service-worker.js": "/api_seasonal_weather/service-worker.js",
+    "static/css/main.125ef254.chunk.css.map": "/api_seasonal_weather/static/css/main.125ef254.chunk.css.map",
+    "static/js/2.ffaf7804.chunk.js.LICENSE": "/api_seasonal_weather/static/js/2.ffaf7804.chunk.js.LICENSE",
+    "static/media/main.scss": "/api_seasonal_weather/static/media/tree.4a8517c6.jpg",
+    "static/media/leaves1.png": "/api_seasonal_weather/static/media/leaves1.d7c3af26.png",
+    "static/media/leaves2.png": "/api_seasonal_weather/static/media/leaves2.33ec9f01.png",
+    "static/media/leaves3.png": "/api_seasonal_weather/static/media/leaves3.a50ff853.png",
+    "static/media/leaves4.png": "/api_seasonal_weather/static/media/leaves4.7f6209d8.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.547d2bca.js",
+    "static/js/2.ffaf7804.chunk.js",
+    "static/css/main.125ef254.chunk.css",
+    "static/js/main.5a6e7343.chunk.js"
+  ]
+}
